@@ -1,0 +1,7 @@
+﻿  PMS_FINAL.cpp
+E:\Visual Studio Projects\PMS_FINAL\REGISTER.h(135,7): warning C4101: “department”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 453 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  PMS_FINAL.vcxproj -> E:\Visual Studio Projects\PMS_FINAL\x64\Release\PMS_FINAL.exe

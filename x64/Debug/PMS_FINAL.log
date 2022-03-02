@@ -1,0 +1,3 @@
+﻿  PMS_FINAL.cpp
+E:\Visual Studio Projects\PMS_FINAL\REGISTER.h(135,7): warning C4101: “department”: 未引用的局部变量
+  PMS_FINAL.vcxproj -> E:\Visual Studio Projects\PMS_FINAL\x64\Debug\PMS_FINAL.exe
